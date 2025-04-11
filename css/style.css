@@ -1444,3 +1444,16 @@ body.offcanvas {
     justify-content: space-between;
   }
   
+  .colorlib-subheading {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .colorlib-heading {
+    margin-bottom: 30px !important;
+  }
+  
+  .col-md-12 p {
+    margin-bottom: 15px;
+  }
+  
