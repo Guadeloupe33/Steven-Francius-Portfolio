@@ -1427,3 +1427,20 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+  .row.row-pt-md {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .row.row-pt-md .col-md-4 {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .services {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
